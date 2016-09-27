@@ -4,8 +4,9 @@
 </head>
 <body>
 <div class="text-center">
-	<?php echo "This is home";?>
+	<?php echo "This is home";
+	echo "<br>";?>
+	<button class="btn btn-danger">Click me</button>
 </div>
-<button class="btn btn-danger">Click me</button>
 </body>
 </html>
