@@ -6,7 +6,7 @@
 <div class="text-center">
 	<?php echo "This is home";
 	echo "<br>";?>
-	<button class="btn btn-danger">Click me</button>
+	<button class="btn btn-danger"><span class="glyphicon glyphicon-user"></span>Yun Che</button>
 </div>
 </body>
 </html>
